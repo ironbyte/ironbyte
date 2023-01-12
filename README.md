@@ -1,6 +1,6 @@
 ### Hey there!
 
-As a full-stack software engineer, I am passionate about creating and deploying high-quality products that change the world for the better 🚀
+As a full-stack software engineer, I am passionate about creating and deploying high-quality products 🚀
 
 
 
