@@ -1,6 +1,6 @@
 ### Hey there!
 
-As a software engineer, I am passionate about creating and deploying high-quality products. I am dedicated to building robust, efficient, and user-friendly applications that exceed expectations 🚀
+As a full-stack software engineer, I am passionate about creating and deploying high-quality products that change the world for the better 🚀
 
 
 
