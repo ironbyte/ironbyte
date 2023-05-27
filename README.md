@@ -1,6 +1,6 @@
 ### Hey there!
 
-As a software engineer, I am passionate about creating and deploying high-quality products 🚀
+As a full-stack developer, my driving force lies in crafting and launching top-notch products that enhance the world we live in 🚀
 
 
 
