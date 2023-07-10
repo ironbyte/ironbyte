@@ -1,6 +1,5 @@
 ### Hey there!
 
-![image](https://github.com/ironbyte/ironbyte/assets/18900204/afb8ac41-822e-4b91-9a91-abf825d5dc99)
 
 
 
