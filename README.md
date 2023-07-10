@@ -1,8 +1,6 @@
 ### Hey there!
 
-As a full-stack developer, my driving force lies in crafting and launching top-notch products that enhance the world we live in 🚀
-
-
+![image](https://github.com/ironbyte/ironbyte/assets/18900204/afb8ac41-822e-4b91-9a91-abf825d5dc99)
 
 
 
