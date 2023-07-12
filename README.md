@@ -15,6 +15,7 @@ When it comes to building full-stack apps, I have a go-to tech stack that I abso
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ironbyte&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0F172A&dates=94A3B8&ring=D97706&stroke=D6D3D1&border=94A3B8&fire=F59E0B&currStreakNum=4ADE80&currStreakLabel=4ADE80&sideNums=E0F2FE&sideLabels=C084FC&excludeDaysLabel=C084FC)](https://git.io/streak-stats)
 
 <!--
 **ironbyte/ironbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
