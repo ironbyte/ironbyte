@@ -1,5 +1,7 @@
 Hey there, I'm Moncy! 😅
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ironbyte&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0F172A&dates=94A3B8&ring=D97706&stroke=D6D3D1&border=94A3B8&fire=F59E0B&currStreakNum=4ADE80&currStreakLabel=4ADE80&sideNums=E0F2FE&sideLabels=C084FC&excludeDaysLabel=C084FC)](https://git.io/streak-stats)
+
 Welcome to my GitHub! Over the past 7 years, I've been neck-deep in full-stack web development, getting my hands dirty with everything from JavaScript to Node.js, React, and Remix (Can't live without it now!). I love the process of transforming a cool idea into lines of code that eventually come to life as fully functional digital products, helping to make the world a better place!
 
 On top of this, I'm a DevOps enthusiast. I'm fascinated by the blend of development and operations and appreciate the critical role it plays in creating efficient software development cycles. Through my experience with CI/CD, cloud services, and infrastructure management, I've developed a strong affinity for implementing DevOps practices in my projects for more streamlined and reliable outcomes.
@@ -14,8 +16,6 @@ When it comes to building full-stack apps, I have a go-to tech stack that I abso
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ironbyte&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0F172A&dates=94A3B8&ring=D97706&stroke=D6D3D1&border=94A3B8&fire=F59E0B&currStreakNum=4ADE80&currStreakLabel=4ADE80&sideNums=E0F2FE&sideLabels=C084FC&excludeDaysLabel=C084FC)](https://git.io/streak-stats)
 
 <!--
 **ironbyte/ironbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
