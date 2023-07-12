@@ -1,4 +1,4 @@
-Hey there, I'm Moncy! 😅
+Hey there, I'm Moncy!
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ironbyte&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0F172A&dates=94A3B8&ring=D97706&stroke=D6D3D1&border=94A3B8&fire=F59E0B&currStreakNum=4ADE80&currStreakLabel=4ADE80&sideNums=E0F2FE&sideLabels=C084FC&excludeDaysLabel=C084FC)](https://git.io/streak-stats)
 
