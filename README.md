@@ -2,6 +2,8 @@ Hey there, I'm Moncy! 😅
 
 Welcome to my GitHub! Over the past 7 years, I've been neck-deep in full-stack web development, getting my hands dirty with everything from JavaScript to Node.js, React, and Remix (Can't live without it now!). I love the process of transforming a cool idea into lines of code that eventually come to life as fully functional digital products, helping to make the world a better place!
 
+On top of this, I'm a DevOps enthusiast. I'm fascinated by the blend of development and operations and appreciate the critical role it plays in creating efficient software development cycles. Through my experience with CI/CD, cloud services, and infrastructure management, I've developed a strong affinity for implementing DevOps practices in my projects for more streamlined and reliable outcomes.
+
 Take a look around my repos to get a feel for what I've been up to. And hey, if you're up for a chat or a collab, just drop me a line. Let's code!
 
 When it comes to building full-stack apps, I have a go-to tech stack that I absolutely love:
