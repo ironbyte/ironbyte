@@ -8,10 +8,6 @@ I am deeply committed to helping innovative teams overcome complex challenges. M
 
 As a fervent practitioner of DevOps, I utilize CI/CD, cloud services, and infrastructure management to enhance the software development process, consistently leading to efficient and dependable outcomes.
 
-Given my deafness, I excel in text-based English communication, adding a unique perspective to my collaborative approach in team settings.
-
-
-
 When it comes to building full-stack apps, I have a go-to tech stack that I absolutely love:
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
