@@ -1,5 +1,7 @@
 Hey there, I'm Moncy!
 
+I'm a Full-stack Developer with over 7 years of professional experience. I enjoy solving problems, whether through coding or mentoring, within digital product teams that have a strong and clear vision 🚀
+
 <!--
 **ironbyte/ironbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
