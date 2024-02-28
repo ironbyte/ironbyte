@@ -1,5 +1,3 @@
-Hey there, I'm Moncy!
-
 Hi, I'm Moncy, a deaf web developer with an unique perspective, shaped by over 8+ years of professional experience in web development, focusing on cloud, web, blockchain, fintech, and AI. 
 
 I strongly believe that rapid iteration is the key to building exceptional and client-first products 🚀
