@@ -1,6 +1,8 @@
 Hey there, I'm Moncy!
 
-I'm a Full-stack Developer with over 7 years of professional experience. I enjoy solving problems, whether through coding or mentoring, within digital product teams that have a strong and clear vision 🚀
+Hi, I'm Moncy, a deaf web developer with an unique perspective, shaped by over 8+ years of professional experience in web development, focusing on cloud, web, blockchain, fintech, and AI. 
+
+I strongly believe that rapid iteration is the key to building exceptional and client-first products 🚀
 
 <!--
 **ironbyte/ironbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
